@@ -77,10 +77,10 @@ make install
 
 # Run VGG16 example (it can run ResNet-50 as well)
 
-Execute following command in root directory.
+Execute following command in menoh/build/example directory.
 
 ```
-./example/vgg16_example_in_cpp
+./vgg16_example_in_cpp
 ```
 
 Result is here
